@@ -14,7 +14,7 @@
 #' @importFrom dplyr rename_all
 #' @importFrom snakecase to_snake_case
 #'
-#' @exportPattern lahman_*
+#' @exportPattern ^lahman_*
 .onLoad <- function(libname, pkgname) {
   # Use the internal function to create a db connection (see connections.R)
   con <- get_lahman_connection()
