@@ -2,7 +2,7 @@ Package: lahmancooper
 Title: Accessor Functions for the Lahman Database
 Version: 0.0.0.9000
 Authors@R: 
-    person("Chris", "Cardillo", "cfcardillo23@gmail.com", role = c("aut", "cre"))
+    person("Chris", "Cardillo", email = "cfcardillo23@gmail.com", role = c("aut", "cre"))
 Description: Allows users to access tables from the Lahman database using accessor functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
