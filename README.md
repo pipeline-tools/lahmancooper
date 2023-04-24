@@ -8,7 +8,7 @@ Boilerplate for a dbcooper DB package using the Lahman SQLite database.
 To install this package, you will first have to install `dbcooper`, which is not yet on CRAN:
 
 ```r
-devtools::install_github("chriscardillo/dbcooper")
+devtools::install_github("pipeline-tools/dbcooper")
 ```
 
 ### Install `lahmancooper`
@@ -16,7 +16,7 @@ devtools::install_github("chriscardillo/dbcooper")
 Once you have installed `dbcooper`, you can install `lahmancooper`:
 
 ```r
-devtools::install_github("chriscardillo/lahmancooper")
+devtools::install_github("pipeline-tools/lahmancooper")
 ```
 
 ## Usage
